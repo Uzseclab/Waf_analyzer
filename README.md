@@ -1,4 +1,4 @@
-# Waf_analyzer
+# Waf_analyzer by uzsec
 ### Features:
 
 1. **Multi-threaded Analysis**: Processes multiple subdomains concurrently for faster results
